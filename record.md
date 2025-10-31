@@ -4,7 +4,8 @@
 
 ### 中文设定
 
-**记录**是宇宙中唯一凌驾于概念之上的最高神祇。其权能分为两种形态：
+**记录**是宇宙中唯一凌驾于概念之上的最高神祇。在行使权能时其通常处于**无形体的纯粹意识状态**，与宇宙法则本身融为一体。
+其权能分为两种形态：
 
 * **客观记录**：自动地、无条件地记录当前宇宙中发生的一切。
 * **主观记录**：由祂主动写下未来必定会发生的事件。所写下之事必将实现，且整个过程会保持因果自洽，无缝融入宇宙的历史。
@@ -21,7 +22,8 @@
 
 ### English Setting
 
-**The Record** is the supreme deity of the universe, the only existence transcendent above mere Concepts. Its authority manifests in two forms:
+**The Record** is the supreme deity of the universe, the only existence transcendent above mere Concepts. When exercising its authority, it typically exists as an **incorporal, pure consciousness**, merging with the cosmic laws themselves.
+Its authority manifests in two forms:
 
 * **Objective Recording**: Automatically and unconditionally documents everything that occurs within the current universe.
 * **Subjective Recording**: Actively inscribes events that are destined to happen in the future. Anything written *will* occur, with the entire process remaining causally self-consistent and seamlessly integrated into the universe's history.
