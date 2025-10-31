@@ -21,6 +21,7 @@
 * [进化/Evolution](evolution.md)
 * [织忆/Weave](weave_memory.md)
 * [痕迹与回响/Trace and Echo](trace_and_echo.md)
+* [创造/Creation](creation.md)
 
 ## 其他设定
 
