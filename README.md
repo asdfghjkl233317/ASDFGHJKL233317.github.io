@@ -14,13 +14,13 @@
 
 ## 神祇档案
 
-* [反位](antithesis.md)
-* [记录](record.md)
-* [影子](shadow.md)
-* [包容](containment.md)
-* [进化](evolution.md)
-* [织忆](weave_memory.md)
-* [痕迹与回响](trace_and_echo.md)
+* [反位/Antithesis](antithesis.md)
+* [记录/Record](record.md)
+* [影子/Shadow](shadow.md)
+* [包容/Containmet](containment.md)
+* [进化/Evolution](evolution.md)
+* [织忆/Weave](weave_memory.md)
+* [痕迹与回响/Trace and Echo](trace_and_echo.md)
 
 ## 其他设定
 
